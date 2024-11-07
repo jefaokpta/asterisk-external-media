@@ -69,7 +69,7 @@ require(`yargs`)
 		},
 		speechLang: {
 			default: 'en-US',
-			choices: ['en-US', 'fr-CA'],
+			choices: ['en-US', 'fr-CA', 'pt-BR'],
 			global: true,
 			requiresArg: true,
 			description: "BCP-47 Language code.  en-US, fr-CA, etc.",
