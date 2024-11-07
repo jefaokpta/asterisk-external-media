@@ -5,3 +5,6 @@
 .tern-project
 .settings
 node_modules
+
+.idea/
+audios/
